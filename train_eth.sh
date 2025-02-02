@@ -1,0 +1,1 @@
+python -u train_eth.py --test_set 1 --num_epochs 300 --x_encoder_layers 3 --eta_min 1.5e-6 --batch_size 32 --learning_rate 3e-4  --randomRotate True --final_mode 20 --neighbor_thred 10 --using_cuda True --clip 1  --phase train  --train_model KBS
