@@ -7,6 +7,9 @@ Install all dependencies using:
 ``` bash
 pip install -r requirement.txt
 ```
+## Dataset
+You can download the dataset from the following link and place it in the `data` folder under the main directory.
+[Dataset Download Link](https://pan.baidu.com/s/1E5RVLpE3NdrUKFagDVTHoA Extraction code: DOOM)
 ## Train
 For eth dataset, use the train_eth.sh scripts.
 ```bash
